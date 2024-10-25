@@ -8,6 +8,8 @@ Hi, I'm Michael and I love to write and share software with the world. I deeply 
 - [deadpool](https://github.com/bikeshedder/deadpool) – Dead simple pool implementation for rust with async-await
 - [deadqueue](https://github.com/bikeshedder/deadqueue) – Dead simple queue implementation for rust with async-await
 - [tusker](https://github.com/bikeshedder/tusker) – PostgreSQL migration management tool
+- [tusker-rs](https://github.com/bikeshedder/tusker-rs) – PostgreSQL migration management tool (Rust rewrite, WiP)
+- [sunspec](https://github.com/bikeshedder/sunspec) – SunSpec Rust implementation
 
 ## Links
 
